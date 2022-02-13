@@ -2,4 +2,4 @@ tesseract
 pyocr
 pyautogui
 PySide2
-
+imagehash
