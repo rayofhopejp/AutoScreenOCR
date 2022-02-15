@@ -1,6 +1,6 @@
 # ASOCR(Auto Screen OCR)
-Select range and every time you press Space key, OCR is activated.
-範囲を選ぶと、あなたがスペースキーを押すたびに、画面が変わる度にOCRが起動します。
+Select range and every time the screen changes, OCR is activated.
+範囲を選ぶと、画面が変わる度にOCRが起動します。
 
 ## usage1: simple OCR
 0. Settings->Privacy->Allow screen capture to terminal
